@@ -5,11 +5,26 @@
     "basePrice": 1000,
     "fee": 11,
     "amount": 1011,
-    "paid": false,
+    "paid": true,
     "createdAt": 1773916209507,
     "reference": "1773916209504",
     "userId": 5736569839,
     "username": "AndyYudaKLMPK",
-    "fullName": "Akun Terhapus"
+    "fullName": "Akun Terhapus",
+    "history": {
+      "id": 211618056,
+      "debet": "0",
+      "kredit": "1.011",
+      "saldo_akhir": "5.148",
+      "keterangan": "NOBU / ANDI YUDA KURNIAWAN",
+      "tanggal": "19/03/2026 17:32:16",
+      "status": "IN",
+      "fee": "",
+      "brand": {
+        "name": "Bank Jago",
+        "logo": "https://app.orderkuota.com/assets/qris/default.png"
+      }
+    },
+    "paidAt": 1773916341717
   }
 }
